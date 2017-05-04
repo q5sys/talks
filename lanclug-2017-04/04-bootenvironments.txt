@@ -1,0 +1,44 @@
+
+       +----------------------------------------------------------------------------------------------------------------+
+       |                                                                                                                |
+       |                                                                                                                |
+       |     _______               ____   _____                                                   D                     |
+       |    |__   __|             / __ \ / ____|                                                   D                    |
+       |       | |_ __ _   _  ___| |  | | (___                                                     DD                   |
+       |       | | '__| | | |/ _ \ |  | |\___ \                                                    DD                   |
+       |       | | |  | |_| |  __/ |__| |____) |                                                   88                   |
+       |       |_|_|   \__,_|\___|\____/|_____/                                                    OO                   |
+       |                                                                                          ZZZ   O               |
+       |                                                                                          $$$  Z                |
+       |                                                                                        $$$$   $Z               |
+       |                                                                                       $$$$$   $$$              |
+       |    Boot Enviroments                                                                 $$$$$$     $$              |
+       |    +                                                                          Z$$77$7$$$$IIII  $$$             |
+       |    |                                                                      OZZ$777I777777??????II$$$            |
+       |    +-> Boot Environments allows the system to be upgraded               OZZ$77II7777777=====+-+?$$$$           |
+       |    |   while preserving the old system environment in a               OOZZ$77I?7777777~~~~~~~===$$$$I          |
+       |    |   separate ZFS dataset.                                         8OZZ77II?+777777+::::::7~~~$$$$7I         |
+       |    |                                                                8O$Z$$II?+7777777,,,,,,,7::$$$$$$?I        |
+       |    +-> This allows a user to roll back to any previous             8OO$$7$7?+777777777.....77,7$$$$$I??I       |
+       |    |   environment at any point                                   88O$$$7I7777777777777I   7777$$$$$=+?I7      |
+       |    |                                                             D88$$$77I?77777777777777777777$$$$~=++?I      |
+       |    +-> New installations can now be alongside existing ones      D8Z$$$7II?+777777777777777777$$$::~==|?I7     |
+       |    |                                                             D8$$$$7II++=7777777777777777$$$$,:~~=|?I7     |
+       |    +-> Datasets such as /usr/home/ aren't included allowing     DD8$$$$7II?|=777777777777777  $$$$:~==|?I7     |
+       |    |   them to float between different BEs                      DD8Z$$$77I?+=$777?77777777   ..$$$$$=++?I7$    |
+       |    |                                                            DD8ZZ$$$$$$$$$$$$7=77+77$  ...,,$$$$Z+?I77$    |
+       |    +-> Never requires disk partioning                           NDD8OZ$$$$$$$$$$$?~$?$$$$?..,,,:$$$ZZ??I7$     |
+       |    |                                                             DD88OO$$$$$$$$$$~:$$:$$$$7,,:::$ZZZOOI7$$     |
+       |    +-> Through using the BE Admin utility (beadm) one can        NDD88OZZ$$$$$$$=~:$$$:~$$$$$$$$ZZZOO877$Z     |
+       |    |   get data from any other BE if needed                      NNDD88OZZ$Z$$$+==$$$$$==$$$$ZZZZOO8DD$$Z      |
+       |    |                                                              NDDD88OOZZZZ?++=$$$$$++?ZZZZOOO8DDDZZZO      |
+       |    +-> Allows you to 'try before you buy' new versions or          NDDDD88OOOO???IZZZZZ+??ZOOO88DDDDDZZO       |
+       |        updates                                                      NNDDDDDD88III?OOOO??II888DDDDDDDZOO        |
+       |                                                                      NNDDDDDDD77IIIIIIIIIDDDDDDDDDDOO8         |
+       |                                                                        NNDDDDD$77777777ODDDDDDDDDO88           |
+       |                                                                         NNNDDD$$$$$$$$DDDDDDDDDD888            |
+       |                                                                           NNNNDZZ$$$$$DDDDDDD88D               |
+       |                                                                               NNNNDDD8DDDDDDD                  |
+       |                                                                                                                |
+       |  Sponsored by iXsystems                                                                                    04  |
+       +----------------------------------------------------------------------------------------------------------------+
