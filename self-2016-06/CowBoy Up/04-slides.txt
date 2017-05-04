@@ -1,0 +1,19 @@
+
+
+
+
+	Community/Developer Size is order(s) of magnitude larger
+
+	Code Progress 
+	- PCBSD : Personacrypt, Stealth sessions, Tor Mode, sysadm, Lumina-DE(WM)
+
+	Speed + Consistancy of Dev : ZFS vs BTRFS : Vbox/VMware vs Byhve
+
+	Re-inventing the Wheel
+
+
+
+
+
+
+
