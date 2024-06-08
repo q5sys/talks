@@ -18,7 +18,7 @@ GPUs Nvidia vs AMD (vs Intel?)
     + ```> 8 is great```
     + ```> 6 is good ```
     + ```= 6 is iffy```
-    < 6 is a no go
+    + ```< 6 is a no go```
 
 ## How does it work
 
