@@ -5,6 +5,12 @@ Text Gen
 ## Intro
 
 
+ELI5 
+
+Training takes text and breaks it dont into multi dimensional vectors.  When inputing a prompt it calculates the statistical likelihood of what will follow next.
+It's all statistics.  With a well trained model... most of the time that's pretty close to reality. With a poorly trained model or a badly quantized one... it's not.
+
+
 ## How does it work
 
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
@@ -25,11 +31,6 @@ GPUs Nvidia vs AMD (vs Intel?)
     + ```> 6 is good ```
     + ```= 6 is iffy```
     + ```< 6 is a no go```
-
-ELI5 
-
-Training takes text and breaks it dont into multi dimensional vectors.  When inputing a prompt it calculates the statistical likelihood of what will follow next.
-It's all statistics.  With a well trained model... most of the time that's pretty close to reality. With a poorly trained model or a badly quantized one... it's not.
 
 
 
