@@ -9,6 +9,7 @@ Text Gen
 Do you plan on CPU only, GPU only, or Mixed?
 
 CPU only (dont go older than v4)
+
 GPUs Nvidia vs AMD (vs Intel?)
 -vram
 -generation
@@ -47,36 +48,37 @@ overfitting - when a model learns too closely to the training data and fails to 
 
 ## Versions
 
-Llama 1 vs Llama 2 vs Llama 3
-gpt_bigcode
-Grok
-Mistral/Mixtral
-DBRX
-Command R
-Stablecode
-falcon, 2
-xgen
-deepseek, v2
-Phi 2, 3, 
-Solar
-Qwen
+- Llama 1 vs Llama 2 vs Llama 3
+- gpt_bigcode
+- Grok
+- Mistral/Mixtral
+- DBRX
+- Command R
+- Stablecode
+- Falcon, 2
+- xgen
+- deepseek, v2
+- Phi 2, 3, 
+- Solar
+- Qwen
 ...
 
 
 ## Parameters
-LLama1 7B, 13B, 30B, and 65B
-Llama2 7, 13, and 70 billion  (also 34)
-llama3 8B, 70B, 400B?
-Mistral 7b (MOE) 8x7, y(x)z
+
+- LLama1 7B, 13B, 30B, and 65B
+- Llama2 7, 13, and 70 billion  (also 34)
+- llama3 8B, 70B, 400B?
+- Mistral 7b (MOE) 8x7, y(x)z
 
 ## Quantization 
 
-GPU: QPTQ/AWQ/EXL2
-CPU: GGML/GGUF
-
-Note: GGUF can also be used on GPUs thanks to updates to llama.cpp
+- GPU: QPTQ/AWQ/EXL2
+- CPU: GGML/GGUF
+    - Note: GGUF can also be used on GPUs thanks to updates to llama.cpp
 
 The greater the quant - the worse the quality.
+
 Think JPG compression.
 
 
@@ -97,17 +99,17 @@ https://github.com/ggerganov/llama.cpp/discussions/2948
 
 ## Where to find models:
 
-Huggingface 
-Github
-Twitter+Magnet (Mistral likes to be odd)
+- Huggingface 
+- Github
+- Twitter+Magnet (Mistral likes to be odd)
 
 
 ## Text Gen
 blending of frontend/backend
 
-oobabooga https://github.com/oobabooga/text-generation-webui
-lol lms https://github.com/ParisNeo/lollms-webui
-ollama https://github.com/ollama/ollama https://github.com/ollama-webui/ollama-webui 
+- oobabooga https://github.com/oobabooga/text-generation-webui
+- lol lms https://github.com/ParisNeo/lollms-webui
+- ollama https://github.com/ollama/ollama https://github.com/ollama-webui/ollama-webui 
     + Their Quants suck  Mistral 60% resolution lost, Command-R 70%
     + its easy to test, but quality is bad.  
     + if quality is your concern.... use custom models
