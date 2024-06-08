@@ -46,6 +46,14 @@ tokens - Tokens are the linguistic units
 
 linguistic units - a number of chars that can be processed together
 
+I am at Southeast Linuxfest in 2024.
+
+I am at 
+Southea
+st Linu
+xfest i
+n 2024.
+
 
 overfitting - when a model learns too closely to the training data and fails to generalize to new or unseen data. Basically it becomes ridgid and less helpful
 
