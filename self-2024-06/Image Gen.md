@@ -12,6 +12,7 @@ Nvidia vs AMD (vs Intel?)
 
 + https://poloclub.github.io/diffusion-explainer/
 + https://stable-diffusion-art.com/how-stable-diffusion-work/
++ https://theaisummer.com/diffusion-models/
 
 ## ELI5 
 
