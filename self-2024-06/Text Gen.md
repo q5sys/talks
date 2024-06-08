@@ -11,12 +11,13 @@ Do you plan on CPU only, GPU only, or Mixed?
 CPU only (Intel dont go older than v4)
 
 GPUs Nvidia vs AMD (vs Intel?)
--vram
--generation
--Nvidia Compute https://developer.nvidia.com/cuda-gpus
-    > 8 is great
-    > 6 is good 
-    = 6 is iffy
+
+- vram
+- generation
+- Nvidia Compute https://developer.nvidia.com/cuda-gpus
+    + ```> 8 is great```
+    + ```> 6 is good ```
+    + ```= 6 is iffy```
     < 6 is a no go
 
 ## How does it work
