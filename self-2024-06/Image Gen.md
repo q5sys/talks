@@ -107,8 +107,11 @@ I could go on but I'll stop
 :Bad OS Analogy
 
 A1111 - Windows  (lots of capability)
+
 ComfyUI - Linux (ultimate power)
+
 Easy Diffusion - Mac (easy for non tech people to use)
+
 StableSwarm - Linux++
 
 
@@ -116,15 +119,19 @@ StableSwarm - Linux++
 ## DEMO
 
 ### A1111 http://192.168.1.222:7860
+
 CUDA_VISIBLE_DEVICES=1  /home/q5/ai/image/a1111/stable-diffusion-webui/webui.sh --listen
 
 ### ComfyUI http://192.168.1.222:8188
+
 CUDA_VISIBLE_DEVICES=2 python  /home/q5/ai/image/comfy/main.py --listen
 
 ### EasyDiffusion http://192.168.1.222:9000
+
 CUDA_VISIBLE_DEVICES=3  /home/q5/ai/image/easydiffusion/start.sh
 
 ### StableSwarm http://192.168.1.222:7801
+
 CUDA_VISIBLE_DEVICES=4  /home/q5/ai/image/stableswarm/StableSwarmUI/launch-linux.sh --listen
 
 
