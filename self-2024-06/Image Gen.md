@@ -144,10 +144,10 @@ CUDA_VISIBLE_DEVICES=4  /home/q5/ai/image/stableswarm/StableSwarmUI/launch-linux
 
 #### ComfyUI Workflows
 - The Community is helpful with workflows
-https://comfyworkflows.com
-https://github.com/comfyanonymous/ComfyUI_examples
-https://openart.ai/workflows/home
-https://civitai.com/search/models?sortBy=models_v8&query=workflow
+- https://comfyworkflows.com
+- https://github.com/comfyanonymous/ComfyUI_examples
+- https://openart.ai/workflows/home
+- https://civitai.com/search/models?sortBy=models_v8&query=workflow
 
 #### Hands and Limbs fix
 - https://github.com/Koishi-Star/Euler-Smea-Dyn-Sampler
