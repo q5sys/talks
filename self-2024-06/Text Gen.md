@@ -4,6 +4,12 @@ Text Gen
 
 ## Intro
 
+
+## How does it work
+
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+
 ## Hardware
 
 Do you plan on CPU only, GPU only, or Mixed?
@@ -19,11 +25,6 @@ GPUs Nvidia vs AMD (vs Intel?)
     + ```> 6 is good ```
     + ```= 6 is iffy```
     + ```< 6 is a no go```
-
-## How does it work
-
-https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-
 
 ELI5 
 
