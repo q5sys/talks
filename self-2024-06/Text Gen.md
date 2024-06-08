@@ -152,6 +152,7 @@ blending of frontend/backend
 
 systemctl start ollama && /home/q5/ai/text/ollama/run.sh
 
+Model used in demos: https://huggingface.co/BallisticAI
 
 #### Text Analysis
 - https://github.com/ErikBjare/are-copilots-local-yet
