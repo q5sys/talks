@@ -8,7 +8,7 @@ Text Gen
 
 Do you plan on CPU only, GPU only, or Mixed?
 
-CPU only (dont go older than v4)
+CPU only (Intel dont go older than v4)
 
 GPUs Nvidia vs AMD (vs Intel?)
 -vram
