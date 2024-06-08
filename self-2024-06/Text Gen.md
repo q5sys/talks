@@ -110,7 +110,7 @@ blending of frontend/backend
 
 - oobabooga https://github.com/oobabooga/text-generation-webui
 - lol lms https://github.com/ParisNeo/lollms-webui
-- ollama https://github.com/ollama/ollama https://github.com/ollama-webui/ollama-webui 
+- ollama https://github.com/ollama/ollama && https://github.com/ollama-webui/ollama-webui 
     + Their Quants suck  Mistral 60% resolution lost, Command-R 70%
     + its easy to test, but quality is bad.  
     + if quality is your concern.... use custom models
