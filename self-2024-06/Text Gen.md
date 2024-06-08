@@ -91,10 +91,10 @@ Think JPG compression.
 
 
 Resources:
-https://github.com/cg123/mergekit
-https://github.com/AutoGPTQ/AutoGPTQ
-https://github.com/turboderp/exllamav2
-https://github.com/ggerganov/llama.cpp/discussions/2948
+- https://github.com/cg123/mergekit
+- https://github.com/AutoGPTQ/AutoGPTQ
+- https://github.com/turboderp/exllamav2
+- https://github.com/ggerganov/llama.cpp/discussions/2948
 
 
 ## Where to find models:
@@ -117,49 +117,51 @@ blending of frontend/backend
 
 ###other backends/frontends
 
-exUI https://github.com/turboderp/exui
-H2ogpt https://github.com/h2oai/h2ogpt
-LM Studio https://github.com/lmstudio-ai
-GPT4ALL https://github.com/nomic-ai/gpt4all
-tabbyapi https://github.com/theroyallab/tabbyAPI/
-localai https://github.com/mudler/LocalAI
-llamacpp (backend for most)
-vllm
+- exUI https://github.com/turboderp/exui
+- H2ogpt https://github.com/h2oai/h2ogpt
+- LM Studio https://github.com/lmstudio-ai
+- GPT4ALL https://github.com/nomic-ai/gpt4all
+- tabbyapi https://github.com/theroyallab/tabbyAPI/
+- localai https://github.com/mudler/LocalAI
+- llamacpp (backend for most)
+- vllm
 
-sillytavern another front end for local chatbot characters can work with characters cards from chub.ai (warning NSFW)
-https://github.com/mounta11n/plusplus-caMalL/tree/master
-https://github.com/liltom-eth/llama2-webui
-https://github.com/janhq/jan?tab=readme-ov-file
+- sillytavern another front end for local chatbot characters can work with characters cards from chub.ai (warning NSFW)
+- https://github.com/mounta11n/plusplus-caMalL/tree/master
+- https://github.com/liltom-eth/llama2-webui
+- https://github.com/janhq/jan?tab=readme-ov-file
 
 #### DEMO
 
 ### Oobabooga http://192.168.1.222:7860
+
 /home/q5/ai/text/oobabooga/start_linux.sh --listen
 
 ### Ollama (via cli)
+
 systemctl start ollama && /home/q5/ai/text/ollama/run.sh
 
 
 #### Text Analysis
-https://github.com/ErikBjare/are-copilots-local-yet
-http://brandonharris.io/RAG_with_private_models/
-https://github.com/weaviate/Verba
-https://github.com/cheshire-cat-ai/core
-https://github.com/BruceMacD/chatd
-https://github.com/nrl-ai/pautobot
-https://github.com/atisharma/llama_farm/tree/main
-https://github.com/Sinaptik-AI/pandas-ai
+- https://github.com/ErikBjare/are-copilots-local-yet
+- http://brandonharris.io/RAG_with_private_models/
+- https://github.com/weaviate/Verba
+- https://github.com/cheshire-cat-ai/core
+- https://github.com/BruceMacD/chatd
+- https://github.com/nrl-ai/pautobot
+- https://github.com/atisharma/llama_farm/tree/main
+- https://github.com/Sinaptik-AI/pandas-ai
 
-https://huggingface.co/pszemraj/led-large-book-summary
-https://huggingface.co/pszemraj/pegasus-x-large-book-summary
-https://huggingface.co/pszemraj/long-t5-tglobal-base-16384-book-summary
-https://github.com/fynnfluegge/rocketnotes
+- https://huggingface.co/pszemraj/led-large-book-summary
+- https://huggingface.co/pszemraj/pegasus-x-large-book-summary
+- https://huggingface.co/pszemraj/long-t5-tglobal-base-16384-book-summary
+- https://github.com/fynnfluegge/rocketnotes
 
 
 ### Training Fine Tuning
 
-unsloth - https://github.com/unslothai/unsloth
-oobabooga - see above
+- unsloth - https://github.com/unslothai/unsloth
+- oobabooga - see above
 
 DPO (Direct Preference Optimisation) and SFT (Supervised Fine-Tuning) are two methods of fine-tuning, can be used together on independently.
 
@@ -168,44 +170,44 @@ DPO (Direct Preference Optimisation) and SFT (Supervised Fine-Tuning) are two me
 
 
 ### copilot alts
-https://github.com/TabbyML/tabby
-https://github.com/fauxpilot/fauxpilot
-https://github.com/smol-ai/developer
-https://github.com/stitionai/devika
-https://github.com/continuedev/continue
-https://github.com/rjmacarthy/twinny
+- https://github.com/TabbyML/tabby
+- https://github.com/fauxpilot/fauxpilot
+- https://github.com/smol-ai/developer
+- https://github.com/stitionai/devika
+- https://github.com/continuedev/continue
+- https://github.com/rjmacarthy/twinny
 
 
 ### Suites/Frameworks?
-Flowise https://github.com/FlowiseAI/Flowise
-dify https://github.com/langgenius/dify
-AutoGPT https://github.com/Significant-Gravitas/AutoGPT
-Lorax https://github.com/predibase/lorax
+- Flowise https://github.com/FlowiseAI/Flowise
+- dify https://github.com/langgenius/dify
+- AutoGPT https://github.com/Significant-Gravitas/AutoGPT
+- Lorax https://github.com/predibase/lorax
 
 
 ### Search
-https://github.com/SciPhi-AI/agent-search
+- https://github.com/SciPhi-AI/agent-search
 
 
 ### Agents?
-https://github.com/OpenBMB/ChatDev
-https://github.com/Josh-XT/AGiXT
-https://github.com/Pythagora-io/gpt-pilot
-https://github.com/xSNYPSx/LocalAgents/
-https://github.com/stitionai/devika
-https://github.com/danielmiessler/fabric
+- https://github.com/OpenBMB/ChatDev
+- https://github.com/Josh-XT/AGiXT
+- https://github.com/Pythagora-io/gpt-pilot
+- https://github.com/xSNYPSx/LocalAgents/
+- https://github.com/stitionai/devika
+- https://github.com/danielmiessler/fabric
 
 
 ### Assistants?
-https://github.com/LuciAkirami/liva
-https://github.com/rubra-ai/rubra
-Attempt at a sarcastic Jarvis https://github.com/lef-fan/aria
+- https://github.com/LuciAkirami/liva
+- https://github.com/rubra-ai/rubra
+- Attempt at a sarcastic Jarvis https://github.com/lef-fan/aria
 
 
 ### other dev tools
-https://github.com/dhuynh95/LaVague
-https://github.com/context-labs/autodoc
-https://github.com/sweepai/sweep
+- https://github.com/dhuynh95/LaVague
+- https://github.com/context-labs/autodoc
+- https://github.com/sweepai/sweep
 
 
 
