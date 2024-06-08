@@ -4,9 +4,11 @@ Image Gen
 
 ## Intro
 
-## Hardware
 
-Nvidia vs AMD (vs Intel?)
+## ELI5 
+
+Training takes images and adds noise and compresses things into a 'latent space' and generating a model in the process.  When we use Stable Diffusion we are doing the inverse... taking a highly randomized image and uncompressing and removing the noise to end up with an image that we want.
+
 
 ## How does it work
 
@@ -14,9 +16,11 @@ Nvidia vs AMD (vs Intel?)
 + https://stable-diffusion-art.com/how-stable-diffusion-work/
 + https://theaisummer.com/diffusion-models/
 
-## ELI5 
 
-Training takes images and adds noise and compresses things into a 'latent space' and generating a model in the process.  When we use Stable Diffusion we are doing the inverse... taking a highly randomized image and uncompressing and removing the noise to end up with an image that we want.
+## Hardware
+
+Nvidia vs AMD (vs Intel?)
+
 
 
 ## Glossary
@@ -33,9 +37,7 @@ controlnet - is a neural network that controls image generation by adding extra 
 
 upscaler - Exactly like it sounds.
 
-VAE - two uses
-
-The Variational Autoencoder (VAE) neural network has two parts: (1) an encoder and (2) a decoder. The encoder compresses an image to a lower dimensional representation in the latent space. The decoder restores the image from the latent space.
+VAE - The Variational Autoencoder (VAE) neural network has two parts: (1) an encoder and (2) a decoder. The encoder compresses an image to a lower dimensional representation in the latent space. The decoder restores the image from the latent space.
 
 VAE files are used in Stable Diffusion v1 to improve eyes and faces. They are the decoder of the autoencoder we just talked about. By further fine-tuning the decoder, the model can paint finer details.
 
