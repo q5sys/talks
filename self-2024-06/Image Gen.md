@@ -10,8 +10,8 @@ Nvidia vs AMD (vs Intel?)
 
 ## How does it work
 
-https://poloclub.github.io/diffusion-explainer/
-https://stabl
++ https://poloclub.github.io/diffusion-explainer/
++ https://stable-diffusion-art.com/how-stable-diffusion-work/
 
 ## ELI5 
 
