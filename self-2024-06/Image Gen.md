@@ -13,7 +13,7 @@ Nvidia vs AMD (vs Intel?)
 https://poloclub.github.io/diffusion-explainer/
 https://stabl
 
-ELI5 
+## ELI5 
 
 Training takes images and adds noise and compresses things into a 'latent space' and generating a model in the process.  When we use Stable Diffusion we are doing the inverse... taking a highly randomized image and uncompressing and removing the noise to end up with an image that we want.
 
@@ -56,21 +56,21 @@ Personal preference, I prefer DPM++ 2M SDE Karras
 
 ## Versions
 
-SD 1.4
-SD1.5
-SD1.5 LCM
-SD 1.5 Hyper
-SD 2.0
-SD 2.1
-SDXL 1.0
-SD 3 (not out yet)
-SDXL 1.0 LCM
-SDXL Turbo
-SDXL Lightning
-SDXL Hyper
-Stable Cascade
-SVG
-SVD XT
+- SD 1.4
+- SD1.5
+- SD1.5 LCM
+- SD 1.5 Hyper
+- SD 2.0
+- SD 2.1
+- SDXL 1.0
+- SD 3 (not out yet)
+- SDXL 1.0 LCM
+- SDXL Turbo
+- SDXL Lightning
+- SDXL Hyper
+- Stable Cascade
+- SVG
+- SVD XT
 
 ## Where to find models:
 
