@@ -7,6 +7,8 @@ After the talk is given a video of the presentation will be uploaded to the [Sou
 
 Due to the nature of how these work, the question is always a matter of 'when' not 'if'. 
 
+Why do these scams exist? Because they work.  [Current Wallet Status](https://mempool.space/address/bc1qs0ul48xsu7av64xqth700xftzehrd73vx5gzxg)
+
 Financial Disclosure: Exploring the extent of this scam cost me $34. (Well worth it in my opinion)
 
 
