@@ -6,3 +6,12 @@ This talk and repository will include complete logs of the entire process with t
 Due to the nature of how these work, the question is always a matter of 'when' not 'if'. 
 
 Financial Disclosure: Exploring the extent of this scam cost me $34. (Well worth it in my opinion)
+
+
+***
+
+The Players
+
+| Bridgette | Beth | Mike |
+|------|------|-------|
+| ![](https://github.com/q5sys/talks/blob/master/self-2025-06/images/Screenshot_20250313_102915.png) | ![](https://github.com/q5sys/talks/blob/master/self-2025-06/images/Screenshot_20250313_102856.png) | ![](https://github.com/q5sys/talks/blob/master/self-2025-06/images/Screenshot_20250313_163243.png) |
