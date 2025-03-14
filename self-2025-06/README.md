@@ -1,0 +1,8 @@
+# The Anatomy of a Telegram Crypto Scam
+
+I have heard about these before but I've never seen one in action, and on a random day in March of 2025, I was given the chance to look inside one and see how they operate.
+This talk and repository will include complete logs of the entire process with the various people and channels they use and how they intend for this scam to work.
+
+Due to the nature of how these work, the question is always a matter of 'when' not 'if'. 
+
+Financial Disclosure: Exploring the extent of this scam cost me $34. (Well worth it in my opinion)
